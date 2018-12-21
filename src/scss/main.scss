@@ -1,4 +1,15 @@
-@import "world/global";
+@charset 'UTF-8';
+
+@import 
+'world/global',
+'world/reset',
+'world/functions',
+'world/mixins',
+'world/variables';
 
 
-@import "district/cabecalhos";
+@import
+'district/button',
+'district/cabecalhos';
+
+
