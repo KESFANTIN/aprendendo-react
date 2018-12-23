@@ -2,14 +2,23 @@
 
 @import 
 'world/global',
-'world/reset',
-'world/functions',
-'world/mixins',
-'world/variables';
+'world/media-querys',
+'world/animations';
 
 
 @import
-'district/button',
+'district/logo',
+'district/panel',
 'district/cabecalhos';
+
+@import
+'city/thumbnails';
+
+@import
+'state/slider',
+'state/bar-top';
+
+@import
+'region/footer';
 
 
